@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://wujiafeng.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: WuJiafeng’s Tech Blog
+subtitle: Seek Funs from Tech
+author: wujiafeng
 simple_search: https://www.google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email:sciencwjh@hotmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
